@@ -138,6 +138,12 @@
                 </a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="<?= base_url('pemesan') ?>">
+                    <i class="fas fa-fw fa-user"></i>
+                    <span>Data Pemesan</span>
+                </a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="<?= base_url('#') ?>">
                     <i class="fas fa-fw fa-dollar-sign"></i>
                     <span>Data Jenis Bayar</span>
